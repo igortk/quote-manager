@@ -1,0 +1,2 @@
+# Quote manager
+NEED refactor
